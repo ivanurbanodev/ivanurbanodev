@@ -1,15 +1,18 @@
-💻 Machine Learning Enthusiast & Software Developer
+# Machine Learning Enthusiast & Software Developer 💻
+
 ¡Hola! Soy un apasionado de la Inteligencia Artificial y el Machine Learning. Me gusta explorar nuevas tecnologías y aprender continuamente sobre cómo mejorar y aplicar estos conocimientos a problemas del mundo real. Además, me interesa el desarrollo de software y la ciencia de datos, lo que me permite construir aplicaciones útiles y analizar datos para descubrir patrones valiosos.
 
-🔍 Sobre Mí
+## 🔍 Sobre Mí
+
 Tengo un gran interés en el desarrollo de algoritmos que puedan aprender y tomar decisiones de manera autónoma Mi objetivo es combinar mis conocimientos en IA con el desarrollo de software para crear soluciones innovadoras.
 
-🚀 Intereses Actuales
+## 🚀 Intereses Actuales
+
 Machine Learning: Enfocado en redes neuronales, aprendizaje profundo.
 Ciencia de Datos: Analizar datos y descubrir patrones útiles para la toma de decisiones.
 Desarrollo de Software: Construir aplicaciones útiles y explorar buenas prácticas de desarrollo.
 
-## 🚀 Lenguajes y Tecnologías favoritas:
+## 🛠️ Lenguajes y Tecnologías favoritas:
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
